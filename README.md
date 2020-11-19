@@ -1,10 +1,4 @@
-<p align="center">
-   Demo on Youtube :: 
- </p>
 [![https://user-images.githubusercontent.com/36054945/76444483-b5a21d00-63cc-11ea-8dc4-46960ec21a00.png](http://img.youtube.com/vi/L3reonNFDAY/0.jpg)](http://www.youtube.com/watch?v=L3reonNFDAY "Food Ecommerce")
-
-
-
 
 ## Sofra Shop
 An application that allows you to order food from a specific restaurant, evaluate the restaurant, refuse, and receive food and allows the user to apply for a job for the restaurant if the restaurant is requesting jobs, and allows restaurant owners to submit their products to him with some other options such as adding, editing, and deleting products and receiving requests from customers in addition to Admin Dashboard
