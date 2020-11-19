@@ -57,7 +57,7 @@ class districtsDataTable extends DataTable
             ->parameters([
                 'dom' => 'Blfrtip',
                 'lengthMenu' => [[10, 25, 100, -1], [10, 25, 100, 'All record']],
-            ]);
+            ])->language(['ar','en']);
     }
 
     /**

@@ -55,7 +55,7 @@ class RegisterController extends Controller
             'name' => ['required', 'string','unique:clients','max:255'],
             'phone' => ['required','max:14'],
             'category_list.*' => ['required','exists:categories,id'],
-            'email' => ['required', 'string', 'email', 'unique:clients', 'max:255', 'unique:clients'],
+            'email' => ['required', 'string', 'email', 'unique:clients', 'max:255'],
             'password' => ['required', 'string', 'min:8', 'confirmed'],
             'district_id' => ['required', 'exists:districts,id'],
         ],[
