@@ -23,7 +23,7 @@ by : APi - Laravel - Mysql  Spatie - Adminlte - Js  - Ajax -  Bootstrap
 
 ## How to ?
 - Open apache and mysql server
-- change **( .env.example file )** To  **( .env )**
+- change **( .env.example file )** if exists  To  **( .env )** 
 - Open .env file and change  DB_DATABASE=laravel  To DB_DATABASE=sofra 
 - php artisan key:generate
 - composer update
